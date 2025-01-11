@@ -1,17 +1,3 @@
-#include <iostream>
-#include <Windows.h>
-#include <math.h>
-#include <TlHelp32.h>
-#include <string.h>
-#include <tchar.h>
-#include <psapi.h>
-#include <thread>
-#include <chrono>
-#include <fstream>
-#include <string>
-#include <sstream>
-#include <future>
-#include <unordered_map>
 #include "SignatureLocation.h"
 #include "FileOperations.h"
 #include "MemoryReadWrite.h"
