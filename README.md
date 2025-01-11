@@ -1,2 +1,7 @@
 # cs2Xray
-This project is only suitable for beginners with zero C++ foundation
+
+## Compilation Environment
+- **Compiler**: Visual Studio 2019
+- **Platform**: x64 Release
+
+## Feature Code (Signature)
