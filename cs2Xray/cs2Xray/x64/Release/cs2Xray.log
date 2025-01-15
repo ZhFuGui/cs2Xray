@@ -1,0 +1,8 @@
+﻿  Xray.cpp
+C:\Users\22893\source\repos\cs2Xray\cs2Xray\MemoryReadWrite.h(52,21): warning C4154: 删除数组表达式；转换到提供的指针
+C:\Users\22893\source\repos\cs2Xray\cs2Xray\Xray.cpp(20,135): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 568 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  cs2Xray.vcxproj -> C:\Users\22893\source\repos\cs2Xray\x64\Release\cs2Xray.exe
